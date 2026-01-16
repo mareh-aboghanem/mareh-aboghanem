@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marah</h1>
-<h3 align="center">A passionate AI fresh graduate from Yemen</h3>
+<h3 align="center">A passionate AI Engineer from Yemen</h3>
 
-- 🌱 I’m currently learning **ML , DL , CV**
+- 🌱 I’m currently learning **Data Science, Web Development, Dutch language**
 
 - 📫 How to reach me **marehaboghanem@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-mDuVDyoxjWE4cbnYGDyxmQWRchymUZK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
