@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marah" alt="Typing SVG" /></a>
 <h3 align="center">A passionate AI Engineer from Yemen</h3>
 
-- 🌱 I’m currently learning **Data Science, Web Development, Dutch language**
+- 🌱 I’m currently learning **Data Engineer, Web Development, Dutch language**
 
 - 📫 How to reach me **marehaboghanem@gmail.com**
 
