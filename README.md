@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Marah" alt="Typing SVG" /></a>
 
-<h3 align="center">Junior Data Engineer based in Haarlem, the Netherlands, with a background in Artificial Intelligence</h3>
+<h3 align="left">Junior Data Engineer with a background in Artificial Intelligence</h3>
 
-<p align="center">I build data pipelines from raw ingestion to analytics-ready tables.</p>
+<p align="left">I build data pipelines from raw ingestion to analytics-ready tables.</p>
 
 - 🔭 Recent project: **[Flint](https://github.com/mareh-aboghanem/Flint)**, a job search platform for the Dutch market, where I built the data pipeline (Airflow, dbt, Databricks, Azure)
 - 🌱 Currently learning: Dutch and more about cloud data platforms
