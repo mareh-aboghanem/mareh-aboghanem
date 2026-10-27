@@ -4,8 +4,27 @@
 
 <p align="left">I build data pipelines from raw ingestion to analytics-ready tables.</p>
 
-- 🔭 Recent project: **[Flint](https://github.com/mareh-aboghanem/Flint)**, a job search platform for the Dutch market, where I built the data pipeline (Airflow, dbt, Databricks, Azure)
-- 🌱 Currently learning: Dutch and more about cloud data platforms
+### About me
+
+I started in AI, became curious about the data behind the models, and chose data engineering to work on that part. I build batch data pipelines in Python, SQL, and dbt, most recently for Flint, a job search app. Moving from Sana'a to Giza to Haarlem taught me to ask questions before assuming and to adapt quickly, whether I'm facing a new dataset, a new culture, or a new team. I'm now looking for a junior data engineering role where I can keep learning.
+
+- 🌱 Learning Dutch, because I want to feel at home in the Netherlands and work with my colleagues in their language.
+- 🎨 Outside of work, I like drawing and learning Turkish.
+
+### Featured project: Flint
+
+Flint is a job search platform for the Dutch job market, built by a team of five (two data, two backend, and one frontend engineers). A daily pipeline collects postings from Adzuna Api and JobSpy, cleans and models them with dbt on Databricks, and publishes analytics-ready tables that the backend serves to the app.
+
+As one of the two data engineers, I worked on the ingestion from both sources, developed the dbt staging and intermediate models that combine them, and co-built the LLM step that extracts skills, seniority, and contract type from job descriptions.
+
+**Tools:** Python, Pydantic, Airflow, dbt, Databricks, Azure, GitHub Actions
+[Repository](https://github.com/mareh-aboghanem/Flint) · [Live demo](https://c55b.hyf.dev/)
+
+### Other projects
+
+**Image Captioning Model**
+Generates descriptions of images by combining a pre-trained InceptionV3 CNN with a Transformer encoder and decoder. My team and I prepared the COCO 2017 data (70,000 captions cleaned, tokenized, and split 80/20 by image) and trained the model with TensorFlow and Keras.
+[Repository](https://github.com/mareh-aboghanem/ImageCaptioning)
 
 ### Connect with me
 
