@@ -13,11 +13,7 @@ I started in AI, became curious about the data behind the models, and chose data
 
 ### Featured projects:
 
-- **Flint** is a job search platform for the Dutch job market, built by a team of five (two data engineers, two backend engineers, and one frontend engineer). A daily pipeline collects postings from the Adzuna API and JobSpy, cleans and models them with dbt on Databricks, and publishes analytics-ready tables the backend serves to the app.
-
-As one of the two data engineers, I worked on the ingestion from both sources, developed the dbt staging and intermediate models that combine them, and co-built the LLM step that extracts skills, seniority, and contract type from job descriptions.
-
-**Tools:** Python, Pydantic, Airflow, dbt, Databricks, Azure, GitHub Actions
+- **Flint** is a job search platform for the Dutch job market, built by a team of five (two data engineers, two backend engineers, and one frontend engineer). A daily pipeline collects postings from the Adzuna API and JobSpy, cleans and models them with dbt on Databricks, and publishes analytics-ready tables the backend serves to the app. As one of the two data engineers, I worked on the ingestion from both sources, developed the dbt staging and intermediate models that combine them, and co-built the LLM step that extracts skills, seniority, and contract type from job descriptions. **Tools:** Python, Pydantic, Airflow, dbt, Databricks, Azure, GitHub Actions
 [Repository](https://github.com/mareh-aboghanem/Flint) · [Live demo](https://c55b.hyf.dev/)
 
 
